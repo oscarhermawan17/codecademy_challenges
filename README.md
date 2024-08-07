@@ -1,1 +1,1 @@
-## This repo for show exam / quiz while learning on Codecademy
+## This repo is for showcasing exams, quizzes, and challenges completed while learning on Codecademy.
