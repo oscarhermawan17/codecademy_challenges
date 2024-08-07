@@ -1,1 +1,1 @@
-## This folder (TMDB) is part of Codecademy's Challenge on the following topics: Asynchronous JavaScript, Fetch, and Handling Responses.
+## This folder (TMDB) is part of Codecademy's Challeng (Film Finder) on the following topics: Asynchronous JavaScript, Fetch, and Handling Responses.
