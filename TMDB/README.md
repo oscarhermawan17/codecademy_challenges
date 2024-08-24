@@ -1,1 +1,0 @@
-## This folder (TMDB) is part of Codecademy's Challeng (Film Finder) on the following topics: Asynchronous JavaScript, Fetch, and Handling Responses.
