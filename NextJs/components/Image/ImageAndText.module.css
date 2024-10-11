@@ -1,0 +1,11 @@
+.imageContainer {
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  flex-wrap: wrap;
+  font-size: 14px;
+  text-align: center;
+}
