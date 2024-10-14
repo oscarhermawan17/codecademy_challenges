@@ -5,7 +5,7 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: [ /* Your Code */ ],
+      disallow: ['/public/', '/components/', '/data/'],
     },
     sitemap: 'http://localhost:4001/sitemap.xml',
   }

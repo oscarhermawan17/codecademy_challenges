@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image';
 import { useState, useEffect } from 'react'
 import styles from './Screenshot.module.css'
 
@@ -26,7 +27,7 @@ function Screenshot() {
     <div id="camera" onClick={() => {
       setVisible(false);
     }} style={{display: visible ? "block" : "none"}}>
-      <img
+      <Image
         src={"/images/camera.png"}
         alt={"Camera"} 
         width={100}
